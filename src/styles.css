@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+nav a {
+  padding: 2px;
+  margin: 10px 0;
+}
+nav a.active {
+  background-color: #f693fc;
+  color: #fff;
+  pointer-events: none;
+  font-weight: 900;
+  border-radius: 20px;
+}
